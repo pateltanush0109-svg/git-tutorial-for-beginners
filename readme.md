@@ -6,3 +6,6 @@ The best ways are:
 - Sleep
 - Code
 - Repeat
+
+## Summary
+It's a nice repo.
